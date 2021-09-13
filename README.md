@@ -4,3 +4,4 @@
 
 
 
+![alt text](https://github.com/AsmaKarakra/CoinTossSimulator-/blob/main/CoinSimPic.PNG)
